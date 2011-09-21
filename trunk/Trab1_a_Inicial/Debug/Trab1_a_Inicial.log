@@ -1,0 +1,60 @@
+﻿Build started 21-09-2011 12:21:47.
+     1>Project "C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Trab1_a_Inicial.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Trab1_a_Inicial.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Room.cpp
+         Room.cpp
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(796): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(810): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(811): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(852): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(894): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(955): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(999): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(1286): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(1386): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(1481): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(1531): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files\microsoft visual studio 10.0\vc\include\gl\glui.h(1646): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Debug\Trab1_a_Inicial.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmtd.lib /MANIFEST /ManifestFile:"Debug\Trab1_a_Inicial.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Debug\Trab1_a_Inicial.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Debug\Trab1_a_Inicial.lib" /MACHINE:X86 Debug\Trab1_a_Inicial.res
+         Debug\Trab1_a_Inicial.exe.embed.manifest.res
+         Debug\MainCode.obj
+         Debug\PaperSheet.obj
+         Debug\Printer.obj
+         Debug\RGBpixmap.obj
+         Debug\Robot.obj
+         Debug\Room.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Trab1_a_Inicial.exe.embed.manifest" /manifest Debug\Trab1_a_Inicial.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Trab1_a_Inicial.vcxproj -> C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Debug\Trab1_a_Inicial.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Trab1_a_Inicial.unsuccessfulbuild".
+         Touching "Debug\Trab1_a_Inicial.lastbuildstate".
+     1>Done Building Project "C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Trab1_a_Inicial.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
