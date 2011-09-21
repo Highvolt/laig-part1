@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Trab1_a_Inicial">
+</Property><Property Name="Solution File" Value="C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Trab1_a_Inicial.sln">
+</Property><Property Name="Date" Value="quarta-feira, 21 de Setembro de 2011">
+</Property><Property Name="Time" Value="09:35:02">
+</Property></Properties><Event ErrorLevel="0" Project="Trab1_a_Inicial" Source="Trab1_a_Inicial.vcproj" Description="Converting project file 'C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Trab1_a_Inicial.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Trab1_a_Inicial" Source="Trab1_a_Inicial.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Trab1_a_Inicial" Source="Trab1_a_Inicial.vcproj" Description="Done converting to new project file 'C:\Users\ei09063\Downloads\Trab1_a_Inicial\Trab1_a_Inicial\Trab1_a_Inicial.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Trab1_a_Inicial" Source="Trab1_a_Inicial.vcproj" Description="Converted">
+</Event></UpgradeLog>
